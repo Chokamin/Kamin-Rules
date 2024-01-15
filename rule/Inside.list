@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
+
+#1Password
+DOMAIN-SUFFIX,password.com
