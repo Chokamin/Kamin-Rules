@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,wise.com
 
 #OCBC
 DOMAIN-SUFFIX,ocbc.com
+
+#Google AdSense
+DOMAIN,adsense.google.com
