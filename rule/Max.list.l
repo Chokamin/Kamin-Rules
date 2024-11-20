@@ -1,0 +1,3 @@
+#Max
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,max.com
